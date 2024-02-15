@@ -1,0 +1,20 @@
+.red {
+    background-color: rgb(255, 97, 105);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#large {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgb(93, 255, 93);
+    font-size: 24px;
+    font-weight: bold;
+
+}
